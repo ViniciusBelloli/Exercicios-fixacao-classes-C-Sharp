@@ -1,0 +1,13 @@
+C:\Users\Estudos\source\repos\ExerciciosClasse\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.exe
+C:\Users\Estudos\source\repos\ExerciciosClasse\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.deps.json
+C:\Users\Estudos\source\repos\ExerciciosClasse\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.runtimeconfig.json
+C:\Users\Estudos\source\repos\ExerciciosClasse\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.runtimeconfig.dev.json
+C:\Users\Estudos\source\repos\ExerciciosClasse\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.dll
+C:\Users\Estudos\source\repos\ExerciciosClasse\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.pdb
+C:\Users\Estudos\source\repos\ExerciciosClasse\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.csprojAssemblyReference.cache
+C:\Users\Estudos\source\repos\ExerciciosClasse\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.AssemblyInfoInputs.cache
+C:\Users\Estudos\source\repos\ExerciciosClasse\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.AssemblyInfo.cs
+C:\Users\Estudos\source\repos\ExerciciosClasse\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.csproj.CoreCompileInputs.cache
+C:\Users\Estudos\source\repos\ExerciciosClasse\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.dll
+C:\Users\Estudos\source\repos\ExerciciosClasse\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.pdb
+C:\Users\Estudos\source\repos\ExerciciosClasse\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.genruntimeconfig.cache
